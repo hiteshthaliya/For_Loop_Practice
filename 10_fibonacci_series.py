@@ -7,4 +7,4 @@ def fibonacci(n):
        c = a+b
        a = b
        b = c
-fibonacci(7)
+fibonacci(8)
